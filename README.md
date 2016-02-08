@@ -1,5 +1,9 @@
 # superlooper
-Provide infinite loop pagination for Arrays.
+
+Superlooper is not a carousel... is not a slider... it is not a paging plug-in.
+Superlooper simply is a class for paging data from a Array, the implementation
+is up to you.
+
 
 
 ### API methods
