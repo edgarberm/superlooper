@@ -1,0 +1,49 @@
+{
+  "name": "superlooper",
+  "version": "0.1.0",
+  "description": "Provide infinite loop pagination for Arrays.",
+  "homepage": "https://github.com/BuiltByEdgar/superlooper",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "loop",
+    "pagination",
+    "pager",
+    "looper",
+    "superlooper"
+  ],
+  "author": {
+    "name": "Edgar Bermejo",
+    "email": "hello@builtbyedgar.com",
+    "url": "http://builtbyedgar.com/"
+  },
+  "contributors": [
+    {
+      "name": "rafael Torres Malpartida",
+      "email": "raftormal@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuiltByEdgar/superlooper.git"
+  },
+  "scripts": {
+    "prepublish": "babel src/superlooper.js --out-file index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/BuiltByEdgar/superlooper/issues"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {
+    "babel-cli": "^6.5.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-core": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0"
+  }
+}
