@@ -4,7 +4,7 @@
   "description": "Provide infinite loop pagination for Arrays.",
   "homepage": "https://github.com/BuiltByEdgar/superlooper",
   "license": "MIT",
-  "main": "index.js",
+  "main": "bin/index.js",
   "keywords": [
     "loop",
     "pagination",
@@ -28,7 +28,7 @@
     "url": "git+https://github.com/BuiltByEdgar/superlooper.git"
   },
   "scripts": {
-    "prepublish": "babel src/superlooper.js --out-file index.js"
+    "prepublish": "babel src/superlooper.js --out-file bin/index.js"
   },
   "bugs": {
     "url": "https://github.com/BuiltByEdgar/superlooper/issues"
