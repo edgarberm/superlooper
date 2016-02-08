@@ -6,7 +6,7 @@ is up to you.
 
 
 
-### API methods
+### Use
 
 ```javascript
 /**
@@ -15,6 +15,11 @@ is up to you.
 * @param {Number} items to show per page
 **/
 const superlooper = new Superlooper(fakeData, 6)
+
+
+/**
+ * API methods
+ */
 
 // Initialize. Returns index 0
 superlooper.initialize()
@@ -28,6 +33,7 @@ superlooper.prev()
 // Go to especific index (normalized!)
 superlooper.goTo(6)
 ```
+
 
 
 #### Example

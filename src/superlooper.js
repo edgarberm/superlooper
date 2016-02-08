@@ -60,7 +60,7 @@ class Superlooper {
 
 
   /**
- * API methods
+  * API methods
   **/
 
   initialize () { return this.page(0) }  // Returns page 0
