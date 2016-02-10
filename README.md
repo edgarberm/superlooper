@@ -9,6 +9,7 @@ is up to you.
 ### Use
 
 ```javascript
+
 /**
 * Create Superlooper object
 * @param {Array} data to paginate
