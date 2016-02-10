@@ -9,6 +9,8 @@ is up to you.
 ### Use
 
 ```javascript
+// Some fake data
+const fakeData = [0, 1, 2, 3, 4 ... ]
 
 /**
 * Create Superlooper object
