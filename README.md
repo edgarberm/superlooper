@@ -38,4 +38,4 @@ superlooper.goTo(6)
 
 #### Example
 
-You can see in action [here](http://codepen.io/BuiltByEdgar/pen/qbMBKb). Expand pen console!
+You can see in action [here](http://codepen.io/BuiltByEdgar/pen/qbMBKb).
